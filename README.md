@@ -16,7 +16,7 @@
   <img align="center" alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div></br>
    
-Sou apaixonado por tecnologia, uma frase que eu gosto muito é do autor:Wendeu Marinho "Possibilite a tecnologia para as crianças, ensine como deve ser utilizada, e elas mudarão o mundo!"                                       
+Sou apaixonado por tecnologia, uma frase que eu gosto muito é do autor: Wendeu Marinho "Possibilite a tecnologia para as crianças, ensine como deve ser utilizada, e elas mudarão o mundo!"                                       
 
                                        
                                        
