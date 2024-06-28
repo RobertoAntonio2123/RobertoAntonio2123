@@ -1,16 +1,14 @@
-## Hi there 👋
+<center><h2>Bem-Vindos ao meu GitHub! 👋</h2></center>
 
-<!--
-**RobertoAntonio2123/RobertoAntonio2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![programador](https://miro.medium.com/v2/resize:fit:640/format:webp/1*7FGiQF7yZiJ4FA14MPu-Lw.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+😀 Olá, me chamo Roberto Antonio!<br>
+
+📑Sou um profissional de dados com experiência em Pandas e Airflow para automação de workflows, utilizando containers na AWS. Conduzi projetos de web scraping, transformando dados em insights estratégicos. Sempre busco novas tecnologias para aprimorar análises e processos.
+
+
+## Minhas Tecnologias 
+
+![Linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
