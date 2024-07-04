@@ -9,6 +9,18 @@
 📑Sou um profissional de dados com experiência em Pandas e Airflow para automação de workflows, utilizando containers na AWS. Conduzi projetos de web scraping, transformando dados em insights estratégicos. Sempre busco novas tecnologias para aprimorar análises e processos.
 
 
-## Minhas Tecnologias 
+![Roberto Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERTOANTONIO2123&show_icons=true&theme=dracula)
 
-![Linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+
+## Minhas Tecnologias que estou me aperfeiçoando
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"  width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="100px" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px">
+        
+
+
